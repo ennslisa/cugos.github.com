@@ -11,6 +11,8 @@ category: meetings
 notes: The building is locked after 5pm. Someone will be there 5-10 minutes until 6pm to let us in. If you see nobody around and can't access, call the phone number posted at the door to be let in. We will adjourn to the College Inn Pub for a happy hour after the meeting!
 ---
 
+**Lisa Enns** will share a fun campground mapping project created with a Strava track, QGIS, and Inkscape. MANY pictures of dogs will be included! She will also share something a bit more practical, an example of usage of the WorldPop (https://www.worldpop.org/) dataset. This dataset is a useful and more accurate way to measure population at local levels.
+
 **Anyone** is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2023-3-15-cugos_monthly.md) or reach out to us hello@cugos.org
